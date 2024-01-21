@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run pf_heart_disease.py
